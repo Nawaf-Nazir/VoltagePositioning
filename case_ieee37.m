@@ -1,6 +1,5 @@
 function mpc = case_ieee37
 %   Power flow data for IEEE 37 bus test case (single phase equivalent).
-%   Please see CASEFORMAT for details on the case file format.
 %
 %	This testbed is distributed in the hope that it will be useful, but without any warranty.
 %	We do request that publications in which this testbed is adopted, explicitly acknowledge that fact by citing:
